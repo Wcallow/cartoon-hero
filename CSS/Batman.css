@@ -59,3 +59,14 @@ p.caption{
 	font-style: italic;
 	margin-top: 0
 }
+li.nanana{
+	color: goldenrod;
+	font-style: bold;
+	font-size: 30px;
+	font-family: 'Bowlby One SC';
+
+}
+div{
+	border: 4px solid black;
+
+}
